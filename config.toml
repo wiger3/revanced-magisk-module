@@ -24,4 +24,5 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+version = "9.0.46.496"
 included-patched = "'Custom theme'"
