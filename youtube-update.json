@@ -1,6 +1,6 @@
 {
   "version": "v20.12.46 (patches: 5.24.0)",
-  "versionCode": 40,
-  "zipUrl": "https://github.com/wiger3/revanced-magisk-module/releases/download/40/youtube-revanced-magisk-v20.12.46-all.zip",
+  "versionCode": 41,
+  "zipUrl": "https://github.com/wiger3/revanced-magisk-module/releases/download/41/youtube-revanced-magisk-v20.12.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/wiger3/revanced-magisk-module/update/build.md"
 }
